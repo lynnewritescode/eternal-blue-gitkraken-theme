@@ -1,4 +1,4 @@
-# eternal-blue-gitkraken-theme
+# Eternal Blue Gitkraken Theme
 
 A blue theme for GitKraken.
 
